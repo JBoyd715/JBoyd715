@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JBoyd715
 - 👀 I’m interested in Sports, Games, Programming, finding a way to leave my mark.
-- 🌱 I’m currently studying to be a Computer Science Major
+- 🌱 I’m currently studying to be a Software Engineer 
 - 💞️ I’m looking to collaborate on any projects that may help better my education
 - 📫 How to reach me: linkedIn www.linkedin.com/in/jacob-boyd-03335121b
 
